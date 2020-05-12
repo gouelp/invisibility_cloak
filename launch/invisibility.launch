@@ -1,0 +1,4 @@
+<launch>
+<node pkg="harry_cloak" type="harryCloak.py" name="analyze" output="screen">
+    </node>
+</launch>
